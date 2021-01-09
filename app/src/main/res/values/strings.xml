@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="click">Click me</string>
+    <string name="return_data">Возвратить результат</string>
+</resources>
